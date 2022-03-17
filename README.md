@@ -1,5 +1,9 @@
 ### Hi 👋, I'm Fernando
-![](https://pratikjagrut.dev/img/git/github.png)
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
+
 
 Hi there, I'm **Fernando Gordillo**, a **Software Engineer** 🚀 from Lima, Peru
 
