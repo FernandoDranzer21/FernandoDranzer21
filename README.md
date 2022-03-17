@@ -8,7 +8,7 @@ Hi there, I'm **Fernando Gordillo**, a **Software Engineer** 🚀 from Lima, Per
 - 👨🏽‍💻 I’m currently working as a Java at Prosegur.
 - 🌱 I’m currently exploring English . 
 - 🤔 My interests are Neural Networks and NodeJs 
-- 💼 I’m pursuing a Bachelor's degree in Systems Engineer.
+- 💼 I’m  Bachelor's degree in Systems Engineer.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [fernandogordillosanchez@gmail.com](mailto:fernandogordillosanchez@gmail.com).
 
