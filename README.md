@@ -5,7 +5,7 @@
 </div>
 
 
-Hi there, I'm **Fernando Gordillo**, a **Software Engineer** 🚀 from Lima, Peru
+Hi, I'm **Fernando Gordillo**, a **Software Engineer** 🚀 from Lima, Peru
 
 **About Me!**
 
